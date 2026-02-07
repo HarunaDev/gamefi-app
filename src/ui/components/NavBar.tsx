@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const NavBar = (): JSX.Element => {
   return (
     <nav>
-      <p>Desktop App</p>
+      <p>Gamefi App</p>
 
       <ul className="flex gap-3">
         <li>

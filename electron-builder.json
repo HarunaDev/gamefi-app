@@ -1,5 +1,5 @@
 {
-    "appId": "com.harunadev.electron-app",
+    "appId": "com.harunadev.gamefi-app",
     "files": ["dist-electron", "dist-react"],
     "icon": "./edu.png",
     "mac": {
